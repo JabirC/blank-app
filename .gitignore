@@ -139,6 +139,8 @@ venv.bak/
 # Rope project settings
 .ropeproject
 
+.streamlit
+
 # mkdocs documentation
 /site
 
